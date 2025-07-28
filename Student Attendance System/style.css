@@ -1,0 +1,31 @@
+  body {
+  background: url('https://www.transparenttextures.com/patterns/black-linen.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.login-box {
+  background: skyblue;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-box h2 {
+  margin-bottom: 30px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  width: 100%;
+}
